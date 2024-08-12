@@ -40,7 +40,7 @@ React
 2. Import this repository to vercel. Follow steps on recording 
 
 Json-server
-1. Fork and clone this repository :[https://bank-backend-seven.vercel.app/transactions]
+1. Fork and clone this repository :[https://github.com/Kiptoo16/phase-2-bank-of-flatiron-code-challenge.git]
 2. Change db.json to your content 
 3. Push to your forked repository 
 4. Import this repository to vercel. Follow steps on recording
