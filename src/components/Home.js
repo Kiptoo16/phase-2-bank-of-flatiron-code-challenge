@@ -47,7 +47,7 @@ export default function Home(){
 
   const addTransaction = async (newTransaction) => {
       try {
-          const response = await fetch("https://bank-backend-seven.vercel.app/transactions", {
+          const response = await fetch("ffcfrrxx", {
              method: 'POST',
              headers: {
               'Content-Type' : 'application/json'
